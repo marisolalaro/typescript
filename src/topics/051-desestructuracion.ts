@@ -28,7 +28,4 @@ console.log('song', song);
 console.log('author', author);
 console.log('Audio Volumen ',audioPlayer.audioVolume);
 
-
-
-
 export {};
